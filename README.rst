@@ -1,4 +1,4 @@
-Unidecode, lossy ASCII transliterations of Unicode text
+### Unidecode, lossy ASCII transliterations of Unicode text
 =======================================================
 
 It often happens that you have text data in Unicode, but you need to
